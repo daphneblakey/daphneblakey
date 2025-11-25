@@ -1,0 +1,13 @@
+/* Override Hyde sidebar color */
+.sidebar {
+  background-color: #03045e !important;
+}
+
+/* Optional: readable white text */
+.sidebar a,
+.sidebar h1,
+.sidebar h2,
+.sidebar h3,
+.sidebar p {
+  color: #ffffff !important;
+}
