@@ -1,21 +1,15 @@
-# Dependencies
+title: "Daphne Blakey — Public Policy"
+description: "Public policy researcher with strengths in data analysis, evaluation, and evidence-based decision-making."
+url: "https://daphneblakey.github.io"
 
-# Permalinks
-permalink:        pretty
+theme: jekyll-theme-minimal
+permalink: pretty
 
+markdown: kramdown
 
-# Setup
-title:            Daphne Blakey
-tagline:          ''
-#description:      'PhD Student, Cornell University' 
-url:              "https://daphneblakey.github.io"
-baseurl:          "/daphneblakey"
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
-
-paginate:         5
-
-# Custom vars
-#version:          0.0.0
-
-#github:
-  repo:           https://github.com/daphneblakey/daphneblakey/
+author:
+  name: "Daphne Blakey"
