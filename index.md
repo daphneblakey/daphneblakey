@@ -4,13 +4,9 @@ layout: default
 
 ## Daphne Blakey
 
-#### Master of Science
 #### Brooks School of Public Policy
 #### Cornell University
 
-
-
-#
 
 Daphne Blakey is a quantitative social science researcher with advanced training in economics and public policy at Cornell University. 
 
