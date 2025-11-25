@@ -7,7 +7,7 @@ permalink:        pretty
 # Setup
 title:            Daphne Blakey
 tagline:          ''
-description:      'PhD Student, Cornell University' 
+#description:      'PhD Student, Cornell University' 
 url:              "https://daphneblakey.github.io"
 baseurl:          "/daphneblakey"
 
@@ -15,7 +15,7 @@ baseurl:          "/daphneblakey"
 paginate:         5
 
 # Custom vars
-version:          0.0.0
+#version:          0.0.0
 
 github:
   repo:           https://github.com/daphneblakey/daphneblakey/
