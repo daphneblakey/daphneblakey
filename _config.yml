@@ -17,5 +17,5 @@ paginate:         5
 # Custom vars
 #version:          0.0.0
 
-github:
+#github:
   repo:           https://github.com/daphneblakey/daphneblakey/
