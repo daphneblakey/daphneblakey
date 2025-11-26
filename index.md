@@ -7,8 +7,6 @@ title: about
      alt="Photo of Daphne Blakey"
      style="width: 180px; border-radius: 50%; display: block; margin-bottom: 1.5rem;" />
 
-<br>
-
 ## Daphne Blakey
 
 #### Brooks School of Public Policy
