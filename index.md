@@ -7,13 +7,14 @@ title: about
      alt="Photo of Daphne Blakey"
      style="width: 180px; border-radius: 50%; display: block; margin-bottom: 1.5rem;" />
 
+<br>
 
 ## Daphne Blakey
 
 #### Brooks School of Public Policy
 #### Cornell University
 
-<br><br>
+<br>
 
 Daphne Blakey is a quantitative social science researcher with advanced training in economics and public policy at Cornell University. 
 
