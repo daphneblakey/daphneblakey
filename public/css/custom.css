@@ -64,7 +64,7 @@
 /* Sidebar link behavior: normal = full opacity, hover = dimmed */
 .sidebar a {
   opacity: 1.0;
-  transition: opacity 0.2s ease;
+  transition: opacity 0.1s ease;
 }
 
 .sidebar a:hover {
@@ -77,4 +77,12 @@
 .sidebar-nav-item.active {
   opacity: 1 !important;
   font-weight: bold;  /* optional */
+}
+
+/* Remove underline from sidebar links (normal + hover + active) */
+.sidebar a,
+.sidebar a:hover,
+.sidebar a:active,
+.sidebar a:focus {
+  text-decoration: none !important;
 }
