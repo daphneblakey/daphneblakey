@@ -2,6 +2,7 @@
 layout: page
 title: cv
 ---
+<br>
 
 <p>
   <a href="{{ site.baseurl }}/assets/cv/DBlakey_CV_112025.pdf"
