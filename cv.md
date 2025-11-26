@@ -3,8 +3,7 @@ layout: page
 title: cv
 ---
 
-
-<div style="margin-top: 40px;"></div>
+<br>
 
 <p>
   <a href="{{ site.baseurl }}/assets/cv/DBlakey_CV_112025.pdf"
