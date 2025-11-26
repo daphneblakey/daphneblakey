@@ -12,10 +12,14 @@
     </div>
 
     <nav class="sidebar-nav">
-      <a class="sidebar-nav-item{% if page.url == "/" or page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">about</a>
-      <a class="sidebar-nav-item {% if page.url == node.url %} active{% endif %}" href="{{ '/cv' | prepend: site.baseurl }}">cv</a>
-      <a class="sidebar-nav-item {% if page.url == node.url %} active{% endif %}" href="{{ '/contact' | prepend: site.baseurl }}">contact</a>
-      …
+      <a class="sidebar-nav-item{% if page.url == "/" %} active{% endif %}"
+         href="{{ site.baseurl }}/">home</a>
+    
+      <a class="sidebar-nav-item{% if page.url == "/cv/" %} active{% endif %}"
+         href="{{ site.baseurl }}/cv/">cv</a>
+    
+      <a class="sidebar-nav-item{% if page.url == "/contact/" %} active{% endif %}"
+         href="{{ site.baseurl }}/contact/">contact</a>
     </nav>
 
   </div>
