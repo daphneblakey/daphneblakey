@@ -6,7 +6,7 @@ title: about
 <div class="hero-block">
   <img src="{{ site.baseurl }}/assets/img/headshot.jpg"
        alt="Photo of Daphne Blakey"
-       class=headshot" />
+       class="headshot" />
 
   <h2>Daphne Blakey</h2>
   <h4>Brooks School of Public Policy</h4>
