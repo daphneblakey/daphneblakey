@@ -12,7 +12,7 @@ title: about
 #### Brooks School of Public Policy
 #### Cornell University
 
-<div style="margin-top: 20px;"></div>
+<br><br>
 
 Daphne Blakey is a quantitative social science researcher with advanced training in economics and public policy at Cornell University. 
 
