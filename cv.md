@@ -4,7 +4,6 @@ title: cv
 ---
 
 
-**[Download my CV (PDF)]({{ site.baseurl }}/assets/cv/DBlakey_CV_112025.pdf)**
 
 <p>
   <a href="{{ site.baseurl }}/assets/cv/DBlakey_CV_112025.pdf"
