@@ -45,9 +45,8 @@
 }
 
 .sidebar-icons a svg {
-  width: 18px;            /* smaller icons */
-  height: 18px;
-  transition: opacity 0.2s ease;
+  width: 16px;            /* smaller icons */
+  height: 16px;
 }
 
 .sidebar-icons a:hover svg {
@@ -60,4 +59,22 @@
     justify-content: center;   /* center icons on mobile */
     gap: 22px;                 /* even more breathing room on small screens */
   }
+}
+
+/* Sidebar link behavior: normal = full opacity, hover = dimmed */
+.sidebar a {
+  opacity: 1.0;
+  transition: opacity 0.2s ease;
+}
+
+.sidebar a:hover {
+  opacity: 0.5;
+}
+
+.sidebar a:active {
+  opacity: 0.4;   /* optional: slight press effect */
+}
+.sidebar-nav-item.active {
+  opacity: 1 !important;
+  font-weight: bold;  /* optional */
 }
