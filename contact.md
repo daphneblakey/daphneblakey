@@ -3,12 +3,12 @@ layout: page
 title: contact
 ---
 
-# email
+## email
 * dab487 [at] cornell [dot] edu
 * blakey [dot] daphne [at] gmail [dot] com
 
-# twitter
+## twitter
 * [at] daphneblakey
  
-# linkedin
+## linkedin
 * www.linkedin.com/in/daphne-blakey
