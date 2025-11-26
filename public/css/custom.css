@@ -40,14 +40,24 @@
 .sidebar-icons {
   margin-top: 15px;
   display: flex;
-  gap: 12px;
+  gap: 18px;              /* more space between icons */
   align-items: center;
 }
 
 .sidebar-icons a svg {
+  width: 18px;            /* smaller icons */
+  height: 18px;
   transition: opacity 0.2s ease;
 }
 
 .sidebar-icons a:hover svg {
-  opacity: 0.7;
+  opacity: 0.5;
+}
+
+/* Mobile-only centering */
+@media (max-width: 600px) {
+  .sidebar-icons {
+    justify-content: center;   /* center icons on mobile */
+    gap: 22px;                 /* even more breathing room on small screens */
+  }
 }
