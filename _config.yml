@@ -1,6 +1,7 @@
 title: "Daphne Blakey"
 description: "Policy research and data analysis."
 url: "https://daphneblakey.github.io"
+baseurl: "/daphneblakey"      
 
 theme: jekyll-theme-minimal
 permalink: pretty
