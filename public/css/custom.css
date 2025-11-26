@@ -3,6 +3,7 @@
   background-color: #03045e !important;
 }
 
+
 /* Optional: readable white text */
 .sidebar a,
 .sidebar h1,
@@ -10,4 +11,13 @@
 .sidebar h3,
 .sidebar p {
   color: #ffffff !important;
+}
+
+
+.headshot {
+  width: 180px;          /* change size as needed */
+  border-radius: 50%;    /* makes it circular */
+  display: block;
+  margin: 0 auto 1.5rem; /* center + spacing */
+  box-shadow: 0 3px 8px rgba(0,0,0,0.15);
 }
