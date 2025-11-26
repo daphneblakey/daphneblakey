@@ -1,9 +1,7 @@
 ---
 layout: default
 ---
-<img src="{{ site.baseurl }}/public/images/headshot.jpg"
-     alt="Photo of Daphne Blakey"
-     class="headshot">
+
      
 ## Daphne Blakey
 
