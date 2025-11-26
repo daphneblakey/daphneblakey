@@ -18,7 +18,7 @@
   width: 180px;          /* change size as needed */
   border-radius: 50%;    /* makes it circular */
   display: block;
-  margin: 0 auto 1.5rem; /* center + spacing */
+  margin: 1.5rem; /* spacing */
   box-shadow: 0 3px 8px rgba(0,0,0,0.15);
 }
 
