@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/headshot.JPG"
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/headshot.jpg"
      alt="Photo of Daphne Blakey"
      style="width: 180px; border-radius: 50%; display: block; margin-bottom: 1.5rem;" />
 
