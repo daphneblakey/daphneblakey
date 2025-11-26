@@ -4,17 +4,14 @@ title: about
 ---
 
 <div class="hero-block">
-<img src="{{ site.baseurl }}/assets/img/headshot.jpg"
-     alt="Photo of Daphne Blakey"
-     style="width: 180px; border-radius: 50%; display: block; margin-bottom: 1.5rem;" />
-     
-  <p class="hero-title">Daphne Blakey · Brooks School of Public Policy · Cornell University </p>
+  <img src="{{ site.baseurl }}/assets/img/headshot.jpg"
+       alt="Photo of Daphne Blakey"
+       style="width: 180px; border-radius: 50%; display: block; margin-bottom: 1.5rem;" />
+
+  <h2>Daphne Blakey</h2>
+  <h4>Brooks School of Public Policy</h4>
+  <h4>Cornell University</h4>
 </div>
-
-## Daphne Blakey
-
-#### Brooks School of Public Policy
-#### Cornell University
 
 <br>
 
