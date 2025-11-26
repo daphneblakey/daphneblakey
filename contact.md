@@ -3,7 +3,7 @@ layout: page
 title: contact
 ---
 
-<br><br>
+<br>
 
 ### email
 * dab487 [at] cornell [dot] edu
