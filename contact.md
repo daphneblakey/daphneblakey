@@ -2,7 +2,7 @@
 layout: page
 title: contact
 ---
-<br>
+
 ### email
 * dab487 [at] cornell [dot] edu
 * blakey [dot] daphne [at] gmail [dot] com
